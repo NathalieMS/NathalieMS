@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm Nathalie Moreira, 28 years old from Brasil and a full stack developer. 
+## I'm Nathalie Moreira, 28 years old from Brasil and a junior developer. 
 
 <!--
 **NathalieMS/NathalieMS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
